@@ -1,0 +1,51 @@
+*.csv
+*.sqlite3
+*.tar.gz
+.~*
+*credentials*
+index.html
+spider.py
+json_examples.py
+
+# Python & VirtualEnv
+/env/
+/venv/
+ENV/
+*.py[cod]
+
+# IntelliJ/PyCharm
+.idea/
+
+settings_local.py
+
+# Node modules
+/node_modules/
+
+#sass project files
+.sass-cache/
+
+
+# System Junk
+*.so
+*~
+*.swp
+*.swo
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.vi
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+_notes
+dwsync.xml
+*.iml
+
+/static/
+/media/
+
+/nkapp/static
